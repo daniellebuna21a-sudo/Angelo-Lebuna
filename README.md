@@ -33,6 +33,7 @@ I'm learning how to build smart workflows, websites, and apps that save people t
 | Other | Git, GitHub |
 
 ---
+## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lebuna-691423443/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:(https://mail.google.com/mail/u/1/#inbox))
