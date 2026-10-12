@@ -1,4 +1,4 @@
-# Hi, I'm [Angelo Daniel A. Lebuna] 
+# Hi, I'm Angelo Daniel A. Lebuna
 
 **Aspiring AI Automation & Web/App Developer** 
 
