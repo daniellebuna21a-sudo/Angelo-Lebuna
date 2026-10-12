@@ -1,6 +1,6 @@
 # Hi, I'm Angelo Daniel A. Lebuna
 
-**Aspiring AI Automation & Web/App Developer** 
+**Aspiring AI Automate & Web/App Developer** 
 
 I'm learning how to build smart workflows, websites, and apps that save people time. Based in Pasig City, Philippines.
 
